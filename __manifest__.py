@@ -8,6 +8,7 @@
         'views/payment_paytr_templates.xml',
         'views/payment_provider_views.xml',
     ],
+    'post_init_hook': 'post_init_hook',
     'license': 'LGPL-3',
     'installable': True,
     'application': False,
