@@ -6,7 +6,6 @@
     'depends': ['payment', 'website_sale'],
     'data': [
         'views/payment_paytr_templates.xml',
-        'data/payment_provider_data.xml',
         'views/payment_provider_views.xml',
     ],
     'license': 'LGPL-3',

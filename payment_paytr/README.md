@@ -24,7 +24,7 @@ PAYTR Direct API payment provider for Odoo 19 Community (`payment` + `website_sa
 ## Configuration
 
 1. Install module `payment_paytr`.
-2. Open **Accounting -> Configuration -> Payment Providers -> PAYTR**.
+2. Open **Accounting -> Configuration -> Payment Providers** and create a new provider with code `paytr` if a PAYTR record is not already present.
 3. Fill:
    - `PAYTR Merchant ID`
    - `PAYTR Merchant Key`
